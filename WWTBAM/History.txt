@@ -1,0 +1,319 @@
+Sisi
+Kompyutarat e izmislen ot:
+A:Djon Lii Milar
+B:Djoni Mnemonik
+C:Doni
+D:Djon Atanasov
+O:Otkazvam se
+50
+D
+D
+50
+Sisi
+Koj grad e izvesten kato starata stolica na Balgariq?
+A:Veliko Tarnovo
+B:Sliven
+C:Haskovo
+D:Starograd
+O:Otkazvam se
+100
+A
+A
+100
+Sisi
+Kolko podviga e trqbvalo da izvarshi Herkules?
+A:2
+B:22
+C:12
+D:32
+O:Otkazvam se
+150
+C
+C
+150
+Sisi
+Dumite v dvoikata "general - kapitan" se otnasqt taka, kakto dumite:
+A:Imperator - jezal
+B:Papa - kardinal
+C:Leitenant - rota
+D:Sveshtenik - propoved
+O:Otkazvam se
+200
+B
+B
+200
+Sisi
+Kuul e chast ot muzikalniq stil:
+A:Rap
+B:Pop
+C:Djaz
+D:Rok
+O:Otkazvam se
+500
+C
+C
+500
+Sisi
+Koe ot izbroenite po-dolu ne e katolicheski smarten grqh?
+A:Kleveta
+B:Gordost
+C:Zavist
+D:Alchnost
+O:Otkazvam se
+500
+A
+O
+500
+Ana
+Dovarshete zaglavieto na prikazkata: "Snejanka i sedemte..."
+A:"...djudjeta"
+B:"...tapeta"
+C:"...praseta"
+D"...kelemeta"
+O:Otkazvam se
+50
+A
+A
+50
+Ana
+Bez kakvo ne moje banicata?
+A:Testo
+B:Sirene
+C:Magdanoz
+D:Sladko
+O:Otkazvam se
+100
+B
+B
+100
+Ana
+V devet vecherta navivate star budilnik za 12 na obqd. Sled kolko chasa shte zvanne toj?
+A:15
+B:6
+C:12
+D:3
+O:Otkazvam se
+150
+D
+D
+150
+Ana
+Za nai-velik poet i pevec v drevnostta e smqtan:
+A:Orfei
+B:Omir
+C:Odisei
+D:Paris
+O:Otkazvam se
+200
+A
+C
+0
+Ivan
+Kompyutarat e izmislen ot:
+A:Djon Lii Milar
+B:Djoni Mnemonik
+C:Doni
+D:Djon Atanasov
+O:Otkazvam se
+50
+D
+D
+50
+Ivan
+Koj grad e izvesten kato starata stolica na Balgariq?
+A:Veliko Tarnovo
+B:Sliven
+C:Haskovo
+D:Starograd
+O:Otkazvam se
+100
+A
+A
+100
+Ivan
+Kolko podviga e trqbvalo da izvarshi Herkules?
+A:2
+B:22
+C:12
+D:32
+O:Otkazvam se
+150
+C
+C
+150
+Ivan
+Dumite v dvoikata "general - kapitan" se otnasqt taka, kakto dumite:
+A:Imperator - jezal
+B:Papa - kardinal
+C:Leitenant - rota
+D:Sveshtenik - propoved
+O:Otkazvam se
+200
+B
+B
+200
+Ivan
+Kuul e chast ot muzikalniq stil:
+A:Rap
+B:Pop
+C:Djaz
+D:Rok
+O:Otkazvam se
+500
+C
+C
+500
+mONI
+Kompyutarat e izmislen ot:
+A:Djon Lii Milar
+B:Djoni Mnemonik
+C:Doni
+D:Djon Atanasov
+O:Otkazvam se
+50
+D
+D
+50
+mONI
+Koj grad e izvesten kato starata stolica na Balgariq?
+A:Veliko Tarnovo
+B:Sliven
+C:Haskovo
+D:Starograd
+O:Otkazvam se
+100
+A
+A
+100
+mONI
+Kolko podviga e trqbvalo da izvarshi Herkules?
+A:2
+B:22
+C:12
+D:32
+O:Otkazvam se
+150
+C
+C
+150
+mONI
+Dumite v dvoikata "general - kapitan" se otnasqt taka, kakto dumite:
+A:Imperator - jezal
+B:Papa - kardinal
+C:Leitenant - rota
+D:Sveshtenik - propoved
+O:Otkazvam se
+200
+B
+B
+200
+mONI
+Kuul e chast ot muzikalniq stil:
+A:Rap
+B:Pop
+C:Djaz
+D:Rok
+O:Otkazvam se
+500
+C
+C
+500
+mONI
+Koe ot izbroenite po-dolu ne e katolicheski smarten grqh?
+A:Kleveta
+B:Gordost
+C:Zavist
+D:Alchnost
+O:Otkazvam se
+500
+A
+B
+250
+Gloriya
+Kompyutarat e izmislen ot:
+A:Djon Lii Milar
+B:Djoni Mnemonik
+C:Doni
+D:Djon Atanasov
+O:Otkazvam se
+50
+D
+D
+50
+Gloriya
+Koga e nacionalniqt praznik na Balgariq?
+A:01.Juni
+B:03.Mart
+C:09.Septemvri
+D:25.Dekemvri
+O:Otkazvam se
+100
+B
+B
+100
+Gloriya
+Ot koe proizvedenie na Shekspir sa geroite Monteki i Kapuleti?
+A:Hamlet
+B:Romeo i Julieta
+C:Otelo
+D:12 nosht
+O:Otkazvam se
+150
+B
+B
+150
+sis
+Kompyutarat e izmislen ot:
+A:Djon Lii Milar
+B:Djoni Mnemonik
+C:Doni
+D:Djon Atanasov
+O:Otkazvam se
+50
+D
+d
+0
+Sis
+Kompyutarat e izmislen ot:
+A:Djon Lii Milar
+B:Djoni Mnemonik
+C:Doni
+D:Djon Atanasov
+O:Otkazvam se
+50
+D
+D
+50
+Sis
+Koj grad e izvesten kato starata stolica na Balgariq?
+A:Veliko Tarnovo
+B:Sliven
+C:Haskovo
+D:Starograd
+O:Otkazvam se
+100
+A
+A
+100
+Sis
+Kolko podviga e trqbvalo da izvarshi Herkules?
+A:2
+B:22
+C:12
+D:32
+O:Otkazvam se
+150
+C
+C
+150
+Sis
+Dumite v dvoikata "general - kapitan" se otnasqt taka, kakto dumite:
+A:Imperator - jezal
+B:Papa - kardinal
+C:Leitenant - rota
+D:Sveshtenik - propoved
+O:Otkazvam se
+200
+B
+b
+0
